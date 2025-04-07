@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "@apphosting/adapter-angular",
   "version": "17.2.13",
   "main": "dist/index.js",
@@ -32,6 +33,15 @@
     ".": {
       "node": "./dist/index.js",
       "default": null
+=======
+    "name": "@apphosting/adapter-angular",
+    "version": "17.2.1",
+    "main": "dist/index.js",
+    "description": "Experimental addon to the Firebase CLI to add web framework support",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FirebaseExtended/firebase-framework-tools.git"
+>>>>>>> 17.2.1
     },
     "./dist/*": {
       "node": "./dist/*",
